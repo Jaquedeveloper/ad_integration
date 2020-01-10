@@ -13,6 +13,7 @@ A OLX hoje suporta dois tipos de importação de anúncios, para anunciantes que
 
 Para integração via API, há uma API legada (chamada Autoupload) em produção. Ela suporta as subcategorias `Carros vans e utilitários` e `Motos`, além da categoria `Imóveis`. Para utilizá-la, contate suporteintegrador@olxbr.com. Uma nova versão da API está em desenvolvimento e terá rollout em breve: https://github.com/olxbr/ad_integration/blob/master/api/README.md
 
+
 ## Categorias Suportadas por cada Modelo de Integração
 
 Nem todas as categorias de anúncios na OLX são suportadas pelas integrações existentes:
@@ -77,6 +78,15 @@ Nem todas as categorias de anúncios na OLX são suportadas pelas integrações 
 
 <sup>1</sup> A OLX suporta atualmente integração via JSON e API para essa categoria, mas a documentação ainda não está atualizada. Se deseja integrar com essa categoria, entre em contato com suporterintegrador@olxbr.com ou abra uma issue nesse repositório.
 
+## Formato de imagens de anúncios
+
+### Tamanhos
+
+Lero lero lero
+
+### Extensões
+
+Lero lero lero
 
 ## Dúvidas, Sugestões e Comentários
 
